@@ -1,0 +1,8 @@
+en i==j
+	cuando es distinto de 0 (se divide x*1/x en la diagonal)
+	-> cuando es 0 (cambio de filas)
+		pero si es en la ultima i==j
+			esto no sucede si el determinante es distinto de 0
+
+en i!=j
+	x = numero, multiplicar x por fila del uno - fila donde quiero el 0

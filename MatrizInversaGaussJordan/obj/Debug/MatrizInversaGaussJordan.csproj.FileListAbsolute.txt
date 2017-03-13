@@ -1,0 +1,6 @@
+c:\users\kembl\documents\visual studio 2015\Projects\MatrizInversaGaussJordan\MatrizInversaGaussJordan\bin\Debug\MatrizInversaGaussJordan.exe.config
+c:\users\kembl\documents\visual studio 2015\Projects\MatrizInversaGaussJordan\MatrizInversaGaussJordan\bin\Debug\MatrizInversaGaussJordan.exe
+c:\users\kembl\documents\visual studio 2015\Projects\MatrizInversaGaussJordan\MatrizInversaGaussJordan\bin\Debug\MatrizInversaGaussJordan.pdb
+c:\users\kembl\documents\visual studio 2015\Projects\MatrizInversaGaussJordan\MatrizInversaGaussJordan\obj\Debug\MatrizInversaGaussJordan.csprojResolveAssemblyReference.cache
+c:\users\kembl\documents\visual studio 2015\Projects\MatrizInversaGaussJordan\MatrizInversaGaussJordan\obj\Debug\MatrizInversaGaussJordan.exe
+c:\users\kembl\documents\visual studio 2015\Projects\MatrizInversaGaussJordan\MatrizInversaGaussJordan\obj\Debug\MatrizInversaGaussJordan.pdb
